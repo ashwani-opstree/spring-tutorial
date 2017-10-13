@@ -5,7 +5,7 @@
 
     <groupId>org.vaadin.spring</groupId>
     <artifactId>tutorial</artifactId>
-    <version>1.0-25</version>
+    <version>1.0-26</version>
     <packaging>jar</packaging>
 
     <name>tutorial</name>
