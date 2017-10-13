@@ -11,6 +11,20 @@
     <name>tutorial</name>
     <description>Vaadin Spring Boot Tutorial</description>
 
+    <scm>
+        <connection>scm:git:https://github.com/ashwani-opstree/spring-tutorial.git</connection>
+        <developerConnection>scm:git:https://github.com/ashwani-opstree/spring-tutorial.git</developerConnection>
+        <url>https://github.com/ashwani-opstree/spring-tutorial/tree/master</url>
+    </scm>
+
+    <!--
+    <scm>
+        <connection>scm:git:ssh://git@git-eng.REDACTED.com|PROJECT_NAME/hello-world-service-minimal.git</connection>
+        <developerConnection>scm:git:ssh://git@git-eng.REDACTED.com|PROJECT_NAME/hello-world-service-minimal.git</developerConnection>
+        <url>http://git-eng.REDACTED.com/PROJECT_NAME/hello-world-service-minimal/tree/master</url>
+    </scm>
+    -->
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
