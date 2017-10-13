@@ -12,9 +12,9 @@
     <description>Vaadin Spring Boot Tutorial</description>
 
     <scm>
-        <connection>scm:git:https://ashwani_opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial.git</connection>
-        <developerConnection>scm:git:https://ashwani_opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial.git</developerConnection>
-        <url>https://ashwani_opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial/tree/master</url>
+        <connection>scm:git:https://ashwani-opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial.git</connection>
+        <developerConnection>scm:git:https://ashwani-opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial.git</developerConnection>
+        <url>https://ashwani-opstree:A7417272151@github.com/ashwani-opstree/spring-tutorial/tree/master</url>
     </scm>
 
     <!--
