@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mcd</groupId>
   <artifactId>glsv2api</artifactId>
-  <version>1.2.1</version>
+  <version>1.2.3</version>
   <packaging>mule</packaging>
   <name>McDonald's glsv2api application</name>
   <properties>
